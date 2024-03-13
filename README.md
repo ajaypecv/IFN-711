@@ -1,5 +1,7 @@
-# IFN-711
+# IFN-711 Project
 Industry Project done by Team DaProSec
+
+## Create a Suit of Dashboards for Altiorem Private Limited
 
 ## Team Members
 1) Kurt
